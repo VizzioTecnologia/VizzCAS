@@ -1,0 +1,33 @@
+                <div class="adv-table">
+                    <table id="lista-pagamentos" class="display table table-striped">
+                        <thead>
+                        <tr>
+                            <th width="">ID</th>
+                            <th width="8%">Referência</th>
+                            <th width="">Congressista</th>
+                            <th width="">Valor</th>
+                            <th width="15%">Data/Hora</th>
+                            <th width="">Status</th>
+                            <th width="13%">Tipo de Pagamento</th>
+                            <th width="8%"></th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <tr>
+                            <td colspan="5" class="dataTables_empty">Carregando dados do servidor</td>
+                        </tr>
+                        </tbody>
+                        <tfoot>
+                        <tr>
+                            <th width="">ID</th>
+                            <th width="">Referência</th>
+                            <th width="">Congressista</th>
+                            <th width="">Valor</th>
+                            <th width="">Data/Hora</th>
+                            <th width="">Status</th>
+                            <th width="">Tipo de Pagamento</th>
+                            <th width=""></th>
+                        </tr>
+                        </tfoot>
+                    </table>
+                </div>

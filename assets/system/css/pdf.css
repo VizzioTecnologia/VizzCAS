@@ -1,0 +1,31 @@
+@font-face{
+    font-family:Calibri;
+    panose-1:2 15 5 2 2 2 4 3 2 4;
+}
+@font-face{
+    font-family:"Bookman Old Style";
+    panose-1:2 5 6 4 5 5 5 2 2 4;
+}
+
+.header{
+    text-align: center;
+    font-size:12.0pt;
+    line-height:115%;
+    margin-bottom:15px;
+}
+
+table{
+    margin-bottom: 20px;
+    height: auto;
+}
+
+table tr{
+
+}
+table tr td.inscricao{
+    width: 240px;
+}
+table tr td{
+    padding:10px;
+    border:1px solid #ddd;
+}
